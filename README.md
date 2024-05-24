@@ -5,9 +5,10 @@
 ## My submissions so far:
 
 
-| Episode | Project                                                                         | Best Public Score |
-|---------|---------------------------------------------------------------------------------|-------------------|
-| PS4E4   | [Regression with an Abalone Dataset](./PS4E4-AbaloneRegression/README-PS4E4.md) | 0.14804           |
+| Episode | Project                                                                               | Best Public Score |
+|---------|---------------------------------------------------------------------------------------|-------------------|
+| PS4E4   | [Regression with an Abalone Dataset](./PS4E4-AbaloneRegression/README-PS4E4.md)       | 0.14804           |
+| PS4E5   | [Regression with a Flood Prediction Dataset](./PS4E5-FloodPrediction/README-PS4E5.md) | ---               |
 
 PSXEX = Playground Season X Episode X
 

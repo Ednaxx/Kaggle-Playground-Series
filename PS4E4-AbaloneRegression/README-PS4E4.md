@@ -14,7 +14,7 @@ Your Goal: The goal of this competition is to predict the age of abalone from va
 
 ## Evaluation
 
-The evaluation metric for this competition is **Root Mean Squared Logarithmic Error**.
+The evaluation metric for this competition is [**Root Mean Squared Logarithmic Error**](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.root_mean_squared_log_error.html).
 
 The **RMSLE** is calculated as:
 
