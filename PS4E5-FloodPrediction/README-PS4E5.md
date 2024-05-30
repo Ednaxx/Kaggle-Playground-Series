@@ -2,9 +2,9 @@
 
 ## This is my current submission to the Regression with an Abalone Dataset competition in Kaggle Playground Series.
 
-### My submission: ---
+### My submission: https://www.kaggle.com/code/ednaxx/flood-prediction
 
-#### Current best Public Score: ---
+#### Current best Public Score: **0.85192**
 
 ## Overview
 
