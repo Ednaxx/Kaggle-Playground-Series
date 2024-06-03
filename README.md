@@ -5,10 +5,11 @@
 ## My submissions so far:
 
 
-| Episode | Project                                                                               | Best Public Score |
-|---------|---------------------------------------------------------------------------------------|-------------------|
-| PS4E4   | [Regression with an Abalone Dataset](./PS4E4-AbaloneRegression/README-PS4E4.md)       | 0.14804 (RMSLE)   |
-| PS4E5   | [Regression with a Flood Prediction Dataset](./PS4E5-FloodPrediction/README-PS4E5.md) | 0.85192 (R2)      |
+| Episode | Project                                                                                                  | Best Public Score |
+|---------|----------------------------------------------------------------------------------------------------------|-------------------|
+| PS4E4   | [Regression with an Abalone Dataset](./PS4E4-AbaloneRegression/README-PS4E4.md)                          | 0.14804 (RMSLE)   |
+| PS4E5   | [Regression with a Flood Prediction Dataset](./PS4E5-FloodPrediction/README-PS4E5.md)                    | 0.85192 (R2)      |
+| PS4E6   | [Classification with an Academic Success Dataset](./PS4E6-AcademicSuccessClassification/README-PS4E6.md) | - (Accuracy)      |
 
 PSXEX = Playground Season X Episode X
 

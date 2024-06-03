@@ -1,6 +1,6 @@
 # PS4E5 - Regression with a Flood Prediction Dataset 🌊
 
-## This is my current submission to the Regression with an Abalone Dataset competition in Kaggle Playground Series.
+## This is my current submission to the Regression with a Flood Prediction Dataset competition in Kaggle Playground Series.
 
 ### My submission: https://www.kaggle.com/code/ednaxx/flood-prediction
 
