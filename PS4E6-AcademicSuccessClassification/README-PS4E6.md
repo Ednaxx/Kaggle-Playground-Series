@@ -2,7 +2,7 @@
 
 ## This is my current submission to the Classification with an Academic Success Dataset competition in Kaggle Playground Series.
 
-### My submission: in progress
+### My submission: https://www.kaggle.com/code/ednaxx/ps4e6-academic-success-classification
 
 #### Current best Public Score: **in progress**
 
