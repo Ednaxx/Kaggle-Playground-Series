@@ -1,6 +1,7 @@
 input/
 **/submission.csv
 **/catboost_info/
+RunJupyterLab.bat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
