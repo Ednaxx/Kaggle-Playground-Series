@@ -4,7 +4,7 @@
 
 ### My submission: https://www.kaggle.com/code/ednaxx/ps4e6-academic-success-classification
 
-#### Current best Public Score: **in progress**
+#### Current best Public Score: **0.83673**
 
 ## Overview
 
