@@ -1,10 +1,10 @@
-# PS4E5 - Binary Classification of Insurance Cross Selling 🤝
+# PS4E7 - Binary Classification of Insurance Cross Selling 🤝
 
 ## This is my current submission to the Binary Classification of Insurance Cross Selling competition in Kaggle Playground Series.
 
-### My submission: --in development--
+### My submission: https://www.kaggle.com/code/ednaxx/ps4e7-binary-classification-of-insurance-cross
 
-#### Current best Public Score: **--**
+#### Current best Public Score: **0.87836**
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# PS4E5 - Classification with an Academic Success Dataset 🎓
+# PS4E6 - Classification with an Academic Success Dataset 🎓
 
 ## This is my current submission to the Classification with an Academic Success Dataset competition in Kaggle Playground Series.
 
