@@ -11,7 +11,7 @@
 | PS4E5   | [Regression with a Flood Prediction Dataset](./PS4E5-FloodPrediction/README-PS4E5.md)                           | 0.85192 (R2)       |
 | PS4E6   | [Classification with an Academic Success Dataset](./PS4E6-AcademicSuccessClassification/README-PS4E6.md)        | 0.83673 (Accuracy) |
 | PS4E7   | [Binary Classification of Insurance Cross Selling](./PS4E7-InsuranceCrossSellingClassification/README-PS4E7.md) | 0.87836 (ROC AUC)  |
-| PS4E8   | [Binary Prediction of Poisonous Mushrooms](./PS4E8-BinaryPredictionOfPoisonousMushrooms/README-PS4E8.md)        | -- (MCC)           |
+| PS4E8   | [Binary Prediction of Poisonous Mushrooms](./PS4E8-BinaryPredictionOfPoisonousMushrooms/README-PS4E8.md)        | 0.98441 (MCC)           |
 
 PSXEX = Playground Season X Episode X
 

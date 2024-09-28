@@ -2,9 +2,9 @@
 
 ## This is my current submission to the Binary Prediction of Poisonous Mushrooms competition in Kaggle Playground Series.
 
-### My submission: --In progress--
+### My submission: https://www.kaggle.com/code/ednaxx/ps4e8-binary-prediction-of-poisonous-mushrooms
 
-#### Current best Public Score: **--**
+#### Current best Public Score: **0.98441**
 
 ## Overview
 
